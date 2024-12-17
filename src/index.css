@@ -1,0 +1,24 @@
+
+.header {
+  background-image: url(https://paffutorestaurante.es/wp-content/uploads/2024/04/mejor-pizzeria-en-valencia-1024x630.webp);
+  background-size: cover;
+  background-position: center;
+  padding: 100px;
+  color: white;
+  margin-bottom: 80px;
+}
+
+.card-container {
+  border: 5px solid rgb(248, 248, 128); 
+  border-radius: 8px;
+  padding: 50px; 
+  background-color: #fff;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+}
+
+
+
